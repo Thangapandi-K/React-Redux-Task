@@ -7,7 +7,7 @@
 ![alt text](image.png)
 
 
-- [Click here]() to preview tha deployed webpage
+- [Click here](https://react-redux-task32.netlify.app/) to preview tha deployed webpage
 
 - Created cards for all added products.
 
